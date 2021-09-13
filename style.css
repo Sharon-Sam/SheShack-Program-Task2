@@ -1,0 +1,14 @@
+body{
+    background: cadetblue;
+    
+}
+.center{
+    position: absolute;
+    left: 35%;
+    border: double;
+    background-color: cornsilk;
+}
+.names{
+    position: absolute;
+    top: 15%;
+}
